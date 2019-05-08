@@ -1,0 +1,25 @@
+{
+  "name": "react-native-button-picker",
+  "version": "0.2.0",
+  "description": "React Native Button Picker",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "button",
+    "picker"
+  ],
+  "repository": "https://github.com/andresmichel/react-native-button-picker",
+  "author": "Andres Michel",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-native-vector-icons": "^6.4.2"
+  }
+}
